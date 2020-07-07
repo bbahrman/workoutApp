@@ -6,6 +6,6 @@
     "cfn-custom-resource": "^4.0.14",
     "glob": "^7.1.4",
     "mime-types": "^2.1.24",
-    "npm": "^6.10.2"
+    "npm": "^6.14.6"
   }
 }
